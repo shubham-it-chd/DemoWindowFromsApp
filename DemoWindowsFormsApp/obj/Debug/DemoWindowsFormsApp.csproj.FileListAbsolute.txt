@@ -1,0 +1,10 @@
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe.config
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.pdb
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csprojResolveAssemblyReference.cache
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.Properties.Resources.resources
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.GenerateResource.cache
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.exe
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.pdb
+E:\Development\R&D\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.LoginForm.resources
