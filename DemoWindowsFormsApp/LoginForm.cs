@@ -29,7 +29,10 @@ namespace DemoWindowsFormsApp
             {
                 if (string.Compare(txtPassword.Text, "aditya", true) == 0)
                 {
-                    MessageBox.Show("User has been successfully logged in.");
+                    UserDashboard userDashboard = new UserDashboard();
+                    userDashboard.Show();
+                    Hide();
+
                 }
                 else
                     MessageBox.Show("Invalid Username or Password.");
